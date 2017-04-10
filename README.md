@@ -229,7 +229,7 @@ Diese API stellt dem Programmierer mehrere Funktionen verfügbar um die Arbeit z
 #     - __unicodeToAnsi(wString, nLen = 0)                                                                                    #
 #                                                                                                                             #
 ###############################################################################################################################
-
+```
 ### Credits
 ```autohotkey
 ; #### SAMP UDF R16 ####
@@ -249,3 +249,4 @@ Diese API stellt dem Programmierer mehrere Funktionen verfügbar um die Arbeit z
 ; https://github.com/Ashkan-N
 ; Do not remove these lines.
 ; ####################
+```
