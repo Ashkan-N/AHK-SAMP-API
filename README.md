@@ -231,22 +231,18 @@ Diese API stellt dem Programmierer mehrere Funktionen verfügbar um die Arbeit z
 ###############################################################################################################################
 ```
 ### Credits
-```autohotkey
-; #### SAMP UDF R16 ####
-; SAMP Version: 0.3.7
-; Written by Chuck_Floyd 
-; https://github.com/FrozenBrain
-; Modified by Suchty112
-; https://github.com/Suchty112
-; Modified by: paul-phoenix
-; https://github.com/paul-phoenix
-; Modified by: Agrippa1994
-; https://github.com/agrippa1994
-; Modified by: RawDev and ELon
-; Refactoring by: Peek
-; https://github.com/pkfln
-; Modified by: Ashkan-N
-; https://github.com/Ashkan-N
-; Do not remove these lines.
-; ####################
-```
+*** SAMP UDF R16 ***
+> SAMP Version: 0.3.7
+> Written by Chuck_Floyd 
+https://github.com/FrozenBrain
+> Modified by Suchty112
+https://github.com/Suchty112
+> Modified by: paul-phoenix
+https://github.com/paul-phoenix
+> Modified by: Agrippa1994
+https://github.com/agrippa1994
+> Modified by: RawDev and ELon
+Refactoring by: Peek
+https://github.com/pkfln
+> Modified by: Ashkan-N
+https://github.com/Ashkan-N
