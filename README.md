@@ -231,7 +231,7 @@ Diese API stellt dem Programmierer mehrere Funktionen verfügbar um die Arbeit z
 ###############################################################################################################################
 ```
 ### Credits
-#### SAMP UDF R16
+#### SAMP UDF R17
 ##### SAMP Version: 0.3.7 - R2
 
 > Written by Chuck_Floyd 
