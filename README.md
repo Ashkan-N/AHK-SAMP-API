@@ -1,6 +1,6 @@
 # AHK-SAMP-API
 #### By Ashkan-N
-### API für AutoHotkey von Grand Theft Auto San Andreas Multiplayer
+### API für AutoHotkey von Grand Theft Auto San Andreas Multiplayer ohne eine .DLL Datei
 
 Dies ist eine API für AutoHotkey von GTA SAMP.
 Hiermit wird es einem Programmierer vereinfacht in AutoHotkey zu arbeiten.
